@@ -11,15 +11,84 @@ Why have we chosen to use WordPress instead of creating a bespoke CMS or utilizi
 1. It is extendable using themes and plugins - whether custom-built or from a third party. Many of these themes/plugins are also open source.
 1. It provides a User Interface which is friendly to non-technical users but also has tremendous power under the hood that can be utilized by developers.
 
+# WordPress 101
+- Common Concepts
+  - Post
+  - Hierarchies (Categories, Tags)
+  - Comments
+  - Themes
+  - Plugins
+  - Widgets
+  - Menus
+  - Page
+  - Homepage
+  - Users
+- Creating Pages and Posts
+  - Categories and Tags
+  - Adding Images
+  - Videos and Other Media
+  - Visual Editor and Text Editor
+  - Drafts, Pending Articles, and Timestamps
+- Advanced Page and Post Options
+  - Excerpts
+  - Comments/Discussions
+  - Custom Fields
+  - Post Revisions
+  - Pretty Post Slug
+- Comments/Discussion
+  - Adding a Comment
+  - Discussion Settings
+  - Moderating Comments
+  - Eliminating Comment Spam
+- Page Specific
+  - Choosing a Parent
+  - Changing Order of Pages
+- Media Library
+  - Managing Media
+  - Creating a Gallery
+  
+# WordPress 102
+- Installing and Configuring WordPress
+  - Configuring Permalinks
+- Importing and Exporting Content
+- Menus
+  - Add a Menu
+  - Display the Menu
+- Widgets
+- Plugins
+  - What Are They?
+  - Finding Them
+  - Installing Plugins
+  - Must Have Plugins
+    - Backups
+    - Google Analytics
+    - Caching
+    - SEO
+    - Security
+    - Social Media
+    - Jetpack
+  
+# WordPress 103
+- Customizer
+  - Site Identity
+  - Colors
+  - Header Media
+  - Background
+  - Widgets
+  - Static Front Page
+  - Additional CSS
+
+
 # Themes
 WordPress uses themes to customize the appearance of a WordPress instance. There are tens of thousands of themes available, some [free](wordpress.org/themes), some for [pay](themeforest.net). One can also build custom themes, but more on that later.
 
 # Plugins
 WordPress uses plugins to extend the default functionality of the CMS. There are tens of thousands of plugins available, many [free](wordpress.org/plugins/) and [paid](codecanyon.net).
 
-# Concepts
-There are lots of terms and concepts you'll want to become familiar with - posts, pages, permalinks, page errors, and so on.
 
 
-
+# Notes
 1. Much of the material here will apply to WordPress.com as well as the free/open WordPress, but we will not take the time to distinguish when certain features are not available on WordPress.com that are part of the free/open WordPress, nor will we cover functionality that is available via WordPress.com but not via the free/open WordPress. To learn more about the differences between WordPress.com and WordPress.org see [this WPMUdev article](https://premium.wpmudev.org/blog/wordpress-com-and-wordpress-org/).
+
+# Bibliography
+- I am greatly indebted to Karol Krol's Table of Contents in WordPress Complete Sixth Edition for thinking through and listing the different areas of functionality one needs to learn with WordPress.
