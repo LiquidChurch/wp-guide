@@ -80,7 +80,7 @@ Why have we chosen to use WordPress instead of creating a bespoke CMS or utilizi
     - Social Media
     - Jetpack
  - Managing Users
-  
+
 # WordPress 201 - Theme Development
 - Choose How You'll Build
   - Ground Up
