@@ -17,6 +17,9 @@ WordPress uses themes to customize the appearance of a WordPress instance. There
 # Plugins
 WordPress uses plugins to extend the default functionality of the CMS. There are tens of thousands of plugins available, many [free](wordpress.org/plugins/) and [paid](codecanyon.net).
 
+# Concepts
+There are lots of terms and concepts you'll want to become familiar with - posts, pages, permalinks, page errors, and so on.
+
 # Resources for Learning
 As one would expect of such a popular system, there are numerous books, articles, videos, and courses available to learn about WordPress. We will highlight just a few.
 
@@ -28,6 +31,7 @@ Unfortunately, the state of documentation for the user is less than ideal. For m
 - [The Official WordPress.org REST API Handbook](https://developer.wordpress.org/rest-api/) - For developers.
 
 ## Books
+You could start with a book on WordPress, but honestly, this is a little overwhelming. I'd recommend setting up a test WordPress install, playing around with it, and reading some articles on WordPress. Once you have the lay of the land a book length treatment will be significantly more helpful.
 - [WordPress Complete - 6th Edition by Karol Krol](https://www.safaribooksonline.com/library/view/wordpress-complete-/9781787285705/) - 8/2017 - Covers regular usage (creating pages, posts, etc.), using plugins, theme development, social media integration, creating plugins, using the REST API, and so on. The first half of this book will be helpful to the regular user, the second half to developers in particular.
 
 ## Articles
@@ -40,4 +44,4 @@ There are several sites that publish top quality articles on WordPress on a regu
 ## Courses
 - [WPMUdev's The Academy](https://premium.wpmudev.org/academy/) - A full set of courses covering development, multisite, javascript, etc. Focused on the developer, not the regular user.
 
-1. Much of the material here will apply to WordPress.com as well as the free/open WordPress, but we will not take the time to distinguish when certain features are not available on WordPress.com that are part of the free/open WordPress, nor will we cover functionality that is available via WordPress.com but not via the free/open WordPress.
+1. Much of the material here will apply to WordPress.com as well as the free/open WordPress, but we will not take the time to distinguish when certain features are not available on WordPress.com that are part of the free/open WordPress, nor will we cover functionality that is available via WordPress.com but not via the free/open WordPress. To learn more about the differences between WordPress.com and WordPress.org see [this WPMUdev article](https://premium.wpmudev.org/blog/wordpress-com-and-wordpress-org/).
