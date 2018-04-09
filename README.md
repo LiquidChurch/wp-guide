@@ -11,7 +11,7 @@ Why have we chosen to use WordPress instead of creating a bespoke CMS or utilizi
 1. It is extendable using themes and plugins - whether custom-built or from a third party. Many of these themes/plugins are also open source.
 1. It provides a User Interface which is friendly to non-technical users but also has tremendous power under the hood that can be utilized by developers.
 
-# WordPress 101
+# WordPress 101 - Using WordPress
 - Common Concepts
   - Post
   - Hierarchies (Categories, Tags)
@@ -47,9 +47,21 @@ Why have we chosen to use WordPress instead of creating a bespoke CMS or utilizi
   - Managing Media
   - Creating a Gallery
   
-# WordPress 102
+# WordPress 102 - Configuring and Extending WordPress as a User
 - Installing and Configuring WordPress
   - Configuring Permalinks
+  - Enabling HTTPS
+- Themes
+  - Finding a Theme
+  - Installing a Theme
+  - Customizer
+  - Site Identity
+  - Colors
+  - Header Media
+  - Background
+  - Widgets
+  - Static Front Page
+  - Additional CSS
 - Importing and Exporting Content
 - Menus
   - Add a Menu
@@ -67,16 +79,49 @@ Why have we chosen to use WordPress instead of creating a bespoke CMS or utilizi
     - Security
     - Social Media
     - Jetpack
+ - Managing Users
   
-# WordPress 103
-- Customizer
-  - Site Identity
-  - Colors
-  - Header Media
-  - Background
-  - Widgets
-  - Static Front Page
-  - Additional CSS
+# WordPress 201 - Theme Development
+- Choose How You'll Build
+  - Ground Up
+  - Framework
+  - Starter Theme
+- Creating Theme Folder
+- Creating Basic WordPress Contnet
+  - functions.php
+  - header and footer
+  - sidebar
+  - main content (the loop)
+- Creating Template Files within Theme
+  - Understanding WordPress Theme Structure
+  - header.php
+  - footer.php
+  - sidebar.php
+  - Archive
+  - Single
+  - Page
+  - Generating Classes for Body and Post
+  - Other Templates
+  - Creating and Using a Custom Page Template
+- Integrating Widget Compatibility
+- Enabling a Menu
+- Creating a Child Theme
+
+# WordPress 202 - Plugin Development
+- Creating a Basic Plugin
+  - Naming and Organizing Files
+  - Creating Functions
+  - Adding Hooks
+  - Testing
+- Adding an Admin Page
+- Integrating with the Database
+- Creating Shortcodes
+- Custom Post Types (CPTs)
+- Custom Taxonomies
+
+# WordPress 203 - REST API
+
+# WordPress Optional 901 - Widget Development
 
 
 # Themes
@@ -84,8 +129,6 @@ WordPress uses themes to customize the appearance of a WordPress instance. There
 
 # Plugins
 WordPress uses plugins to extend the default functionality of the CMS. There are tens of thousands of plugins available, many [free](wordpress.org/plugins/) and [paid](codecanyon.net).
-
-
 
 # Notes
 1. Much of the material here will apply to WordPress.com as well as the free/open WordPress, but we will not take the time to distinguish when certain features are not available on WordPress.com that are part of the free/open WordPress, nor will we cover functionality that is available via WordPress.com but not via the free/open WordPress. To learn more about the differences between WordPress.com and WordPress.org see [this WPMUdev article](https://premium.wpmudev.org/blog/wordpress-com-and-wordpress-org/).
