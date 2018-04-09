@@ -20,28 +20,13 @@ WordPress uses plugins to extend the default functionality of the CMS. There are
 # Concepts
 There are lots of terms and concepts you'll want to become familiar with - posts, pages, permalinks, page errors, and so on.
 
-# Resources for Learning
-As one would expect of such a popular system, there are numerous books, articles, videos, and courses available to learn about WordPress. We will highlight just a few.
 
-## Official Documentation
-Unfortunately, the state of documentation for the user is less than ideal. For many years documentation for both regular users and developers was kept in the [Codex](codex.wordpress.org), a wiki with some great content but somewhat loosely organized and without a clear path for learning WordPress. Since then the documentation for developers has been largely rewritten into helpful handbooks and references listed below. You can use the Codex to learn the regular use of WordPress, but I'd recommend looking elsewhere.
-- [The Official WordPress.org Theme Handbook](https://developer.wordpress.org/themes/) - For developers.
-- [The Official WordPress.org Plugin Handbook](https://developer.wordpress.org/plugins/) - For developers.
-- [The Official WordPress.org Code Reference](https://developer.wordpress.org/reference/) - For developers.
-- [The Official WordPress.org REST API Handbook](https://developer.wordpress.org/rest-api/) - For developers.
-
-## Books
-You could start with a book on WordPress, but honestly, this is a little overwhelming. I'd recommend setting up a test WordPress install, playing around with it, and reading some articles on WordPress. Once you have the lay of the land a book length treatment will be significantly more helpful.
-- [WordPress Complete - 6th Edition by Karol Krol](https://www.safaribooksonline.com/library/view/wordpress-complete-/9781787285705/) - 8/2017 - Covers regular usage (creating pages, posts, etc.), using plugins, theme development, social media integration, creating plugins, using the REST API, and so on. The first half of this book will be helpful to the regular user, the second half to developers in particular.
-
-## Articles
-There are several sites that publish top quality articles on WordPress on a regular basis. These include:
-- [Sitepoint](sitepoint.com)
-- [Torque](torquemag.io)
-
-## Videos
-
-## Courses
-- [WPMUdev's The Academy](https://premium.wpmudev.org/academy/) - A full set of courses covering development, multisite, javascript, etc. Focused on the developer, not the regular user.
 
 1. Much of the material here will apply to WordPress.com as well as the free/open WordPress, but we will not take the time to distinguish when certain features are not available on WordPress.com that are part of the free/open WordPress, nor will we cover functionality that is available via WordPress.com but not via the free/open WordPress. To learn more about the differences between WordPress.com and WordPress.org see [this WPMUdev article](https://premium.wpmudev.org/blog/wordpress-com-and-wordpress-org/).
+2. This is something we should do when we have time.
+3. We do use functions.php, but any significant functionality should be placed into its own plugin.
+4. We use TinyMCE Advanced and an HTML Editor Syntax Highlighter.
+5. I've mainly used Relevanssi in the past. Its admin UI isn't ideal and the use of this or any other search plugin needs to be carefully configured to work with our existing plugins - especially the messages plugin.
+6. We currently use Bootstrap, though Twig/Timber are interesting and may be worth considering at some juncture.
+7. I am all for visual page builders but strongly suggest that they output standard code/content that is not tied to the specific visual page builder, otherwise one becomes locked into a specific page builder since removing it will cause the site to break.
+8. Alternatively, one can use Cloud9 (free) or DigitalOcean ($5/mo.) to spin up an instance.
