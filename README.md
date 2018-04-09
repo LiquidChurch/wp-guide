@@ -23,10 +23,3 @@ There are lots of terms and concepts you'll want to become familiar with - posts
 
 
 1. Much of the material here will apply to WordPress.com as well as the free/open WordPress, but we will not take the time to distinguish when certain features are not available on WordPress.com that are part of the free/open WordPress, nor will we cover functionality that is available via WordPress.com but not via the free/open WordPress. To learn more about the differences between WordPress.com and WordPress.org see [this WPMUdev article](https://premium.wpmudev.org/blog/wordpress-com-and-wordpress-org/).
-2. This is something we should do when we have time.
-3. We do use functions.php, but any significant functionality should be placed into its own plugin.
-4. We use TinyMCE Advanced and an HTML Editor Syntax Highlighter.
-5. I've mainly used Relevanssi in the past. Its admin UI isn't ideal and the use of this or any other search plugin needs to be carefully configured to work with our existing plugins - especially the messages plugin.
-6. We currently use Bootstrap, though Twig/Timber are interesting and may be worth considering at some juncture.
-7. I am all for visual page builders but strongly suggest that they output standard code/content that is not tied to the specific visual page builder, otherwise one becomes locked into a specific page builder since removing it will cause the site to break.
-8. Alternatively, one can use Cloud9 (free) or DigitalOcean ($5/mo.) to spin up an instance.
