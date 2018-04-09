@@ -87,3 +87,11 @@ Below I've listed a few articles to get you started...
 
 ## Courses
 - [WPMUdev's The Academy](https://premium.wpmudev.org/academy/) - A full set of courses covering development, multisite, javascript, etc. Focused on the developer, not the regular user.
+
+2. This is something we should do when we have time.
+3. We do use functions.php, but any significant functionality should be placed into its own plugin.
+4. We use TinyMCE Advanced and an HTML Editor Syntax Highlighter.
+5. I've mainly used Relevanssi in the past. Its admin UI isn't ideal and the use of this or any other search plugin needs to be carefully configured to work with our existing plugins - especially the messages plugin.
+6. We currently use Bootstrap, though Twig/Timber are interesting and may be worth considering at some juncture.
+7. I am all for visual page builders but strongly suggest that they output standard code/content that is not tied to the specific visual page builder, otherwise one becomes locked into a specific page builder since removing it will cause the site to break.
+8. Alternatively, one can use Cloud9 (free) or DigitalOcean ($5/mo.) to spin up an instance.
