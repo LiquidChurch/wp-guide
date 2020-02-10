@@ -43,3 +43,4 @@ At some point in the future we expect that VVV/Vagrant will fully support Docker
 ## Others
 - Local by Flywheel is a nice system but they've decided to move it from Docker to native systems. Its still easy to use but concerns about security and messing up the entire computer are still valid.
 - Devilbox works well but its default configuration is more complex than necessary.
+- The WordPress Docker environment currently packaged with Gutenberg was not created first and foremost for general WP development but for JS oriented Gutenberg. In our experience there have been a number of issues getting it up and running satisfactorily. This will improve with time but is not recommended currently.
