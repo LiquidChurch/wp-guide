@@ -5,6 +5,8 @@ There are an abundance of content management systems out there, why do we use Wo
 ## Moving From a Proprietary System
 Before 2015 our site was developed by a third party using a proprietary CMS. We were encountering significant limitations with the existing CMS and moving to a new CMS was a must if we were to continue to build out our web presence. So, in 2015, we essentially started with a blank slate and in 2015 WordPress was the frontrunner.
 
+Other options included DotNetNuke (.NET) but this framework seemd heavy and clunky in comparison. There was also Drupal and Joomla but neither had nearly the market penetration of WordPress.
+
 ## What Is Attractive About WordPress?
 1. It holds (by far) the largest market segment for CMS'es.
 2. It has a tremendous ecosystem with thousands of businesses that specialize in building and supporting WordPress solutions.
@@ -12,6 +14,7 @@ Before 2015 our site was developed by a third party using a proprietary CMS. We 
 4. It is extendable using a massive number of themes and plugins. These can be built in-house or by a third party and many are available free.
 5. It has a robust administrative side that allows for site customization.
 6. It provides an intuitive user interface for non-technical individuals to interact with when writing content and uploading images.
+7. Automattic is a large and successful company founded by Matt Mullenweg who also is a BDFL of sorts for WordPress, there is no reason to expect the project to fold anytime in the near future.
 
 
 ## In the Future
