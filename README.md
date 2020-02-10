@@ -3,6 +3,8 @@
 ## Introduction
 This repository provides an opinioniated guide to the use of WordPress at Liquid Church.
 
+For more on why we use WordPress see our [Why WordPress document](WhyWordPress.md).
+
 ## Development
 
 ### Local Environment
@@ -14,6 +16,8 @@ For more on why we recommend VVV see [More On Local Environments](https://github
 JetBrain's PhpStorm is a nice IDE for PHP development which has specific integrations available for use with WordPress (and Vagrant). In our experience PhpStorm can be difficult to configure but overall is a worthwhile undertaking.
 
 The other strong contender is Visual Studio Code (VSC) which has a number of extensions that can provide WordPress support. The recently added remote development extensions which allow a near native experience on remote (or virtual) systems is fantastic.
+
+For help configuring PhpStorm see [More On JetBrains PhpStorm](https://github.com/LiquidChurch/wp-guide/blob/master/MoreOnJetBrainsPhpStorm.md).
 
 ### WordPress Plugins
 - Query Monitor is an excellent (and free) plugin for seeing exactly how your WordPress code is working and can be very helpful in debugging.

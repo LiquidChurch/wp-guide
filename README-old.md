@@ -6,10 +6,7 @@ Matt Mullenweg is the de facto leader of WordPress, having started the [project 
 # Why WordPress?
 Why have we chosen to use WordPress instead of creating a bespoke CMS or utilizing any of the many other CMS options available?
 
-1. It is the market leader for content management systems and as such has a tremendous ecosystem built around it including thousands of businesses that specialize in building bespoke solutions on top of WordPress.
-1. It is open source, this means that we can view and change the source code as needed. Should WordPress be abandoned (not gonna happen) or should it go in a direction at odds with our needs we can always choose to *fork* the code and create our own implementation that is tailored to our needs (we have no intention of doing so).
-1. It is extendable using themes and plugins - whether custom-built or from a third party. Many of these themes/plugins are also open source.
-1. It provides a User Interface which is friendly to non-technical users but also has tremendous power under the hood that can be utilized by developers.
+
 
 # WordPress 101 - Using WordPress
 - Common Concepts
