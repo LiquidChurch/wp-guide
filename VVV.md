@@ -1,4 +1,8 @@
 # Using Varying Vagrant Vagrants (VVV)
+There are many ways to setup a development environment for WordPress. In our experience one of the simplest, full-featured, and stablest is [Varying Vagrant Vagrants](https://varyingvagrantvagrants.org/) which uses [VirtualBox](https://virtualbox.org/) and [Vagrant](https://vagrantup.com).
+
+For more on why we recommend VVV see [More On Local Environments](MoreOnLocalEnvironments.md).
+
 VVV is a Vagrant configuration specifically optimized for WordPress development. It takes between 15-30 minutes for the mainly automated process to be setup initially.
 
 ## Installation

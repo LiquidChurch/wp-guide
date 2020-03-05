@@ -1,6 +1,6 @@
 # More on JetBrain's PhpStorm IDE
 
-PhpStorm is one of the most powerful IDE's for WordPress Development. That said, we have found that it is sometimes difficult to configure. Hopefully tips we provide here will be helpful.
+[JetBrain's PhpStorm](https://www.jetbrains.com/phpstorm/) is one of the most powerful IDE's for WordPress Development. That said, we have found that it is sometimes difficult to configure. Hopefully tips we provide here will be helpful.
 
 ## Configure the Settings!
 1. Before you start doing any work in PhpStorm make sure you configure the settings.
