@@ -25,7 +25,10 @@ For more on why we use WordPress see our [Why WordPress document](WhyWordPress.m
 ### Version Control System
 You should be using [GitHub](https://github.com/) for your code repositories and [Git](https://git-scm.com/) as your client/local repository host. Feel free to utilize a GUI based interface on top of the git software if you prefer (most IDE's have some support built-in).
 
-We use [Bitbucket](https://bitbucket.org/) to host our WP theme because we keep it in a private repo and GitHub does not offer organizations free private repos.
+### Terminal
+We recommend using a terminal application. These are packaged with MacOS and Linux but not with Windows. Git for Windows does bundle a BASH environment with it and we recommend using this on Windows.
+
+NOTE: If you are going to use `vagrant up` (see below) you'll need to start Git BASH as an administrator.
 
 ### Local Environment
 There are many ways to setup a development environment for WordPress. In our experience one of the simplest, full-featured, and stablest is [Varying Vagrant Vagrants](https://varyingvagrantvagrants.org/) which uses [VirtualBox](https://virtualbox.org/) and [Vagrant](https://vagrantup.com).
