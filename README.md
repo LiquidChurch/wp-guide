@@ -9,10 +9,10 @@ For more on why we use WordPress see our [Why WordPress document](WhyWordPress.m
 1. [Version Control System (git)](Git.md).
 1. [Local Dev Environment (VVV)](VVV.md).
 1. [Terminal][Terminal.md].
-1. IDE ([PhpStorm](PhpStorm.md) or VSCode).
+1. [PhpStorm](PhpStorm.md) or [VSCode](VisualStudioCode.md) for code editor/IDE.
 1. [Code Quality Tools (PHP_CodeSniffer)](CodeQuality.md).
 1. [WordPress Developer Plugins](WPDevPlugins.md).
-1. Create/Clone Repositories (see [Git.md](Git.md)).
+1. [Create/Clone Repositories (using Git)](Git.md).
 1. [Package Management: Part 1 (Phive)](PackageManagement.md).
 1. [Package Management: Part 2 (Composer)](PackageManagement.md).
 1. [Package Management: Part 3 (npm)](PackageManagement.md).

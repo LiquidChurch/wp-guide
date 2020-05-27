@@ -20,6 +20,7 @@ To run VVV you need to be within the VVV folder (or one of its children folders)
 
 - Start VVV: `vagrant up`
 - Stop VVV: `vagrant halt`
+- Connect via SSH: `vagrant ssh`
 - View Dashboard: https://vvv.test/
 - WP Preinstalled Instance One: https://one.wordpress.test/
 - WP Preinstalled Instance Two: https://two.wordpress.test/

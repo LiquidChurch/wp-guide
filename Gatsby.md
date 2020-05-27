@@ -41,7 +41,6 @@ module.exports = ({
 1. Create a page template file: /src/page/index.js
 1. Create a post template file: /src/post/index.js
 1. Create gatsby-node.js
-1. 
 
 
 ## Notes
