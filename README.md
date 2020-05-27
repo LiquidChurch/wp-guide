@@ -8,7 +8,7 @@ For more on why we use WordPress see our [Why WordPress document](WhyWordPress.m
 ## Quick Overview
 1. [Version Control System (git)](Git.md).
 1. [Local Dev Environment (VVV)](VVV.md).
-1. [Terminal][Terminal.md].
+1. [Terminal](Terminal.md).
 1. [PhpStorm](PhpStorm.md) or [VSCode](VisualStudioCode.md) for code editor/IDE.
 1. [Code Quality Tools (PHP_CodeSniffer)](CodeQuality.md).
 1. [WordPress Developer Plugins](WPDevPlugins.md).
